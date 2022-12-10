@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, I appreciate you checking out my profile. 👋
 
 <!--
 **13gbc/13gbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
