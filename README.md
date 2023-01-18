@@ -2,7 +2,9 @@
 
 <a href="https://www.linkedin.com/in/georgecrook/">
   <img align="left" alt="George Crook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
- </a>  <br><br>
+ </a> 
+ ![](https://visitor-badge.glitch.me/badge?page_id=13gbc)
+ <br><br>
   
   
 I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
