@@ -4,6 +4,8 @@
   <img align="left" alt="George Crook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
  </a> 
  <br><br>
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=13gbc.id&left_color=green&right_color=red)
   
   
 I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
