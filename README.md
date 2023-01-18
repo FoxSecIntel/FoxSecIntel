@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/georgecrook/">
   <img align="left" alt="George Crook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
  </a> 
- ![](https://visitor-badge.glitch.me/badge?page_id=13gbc)
  <br><br>
   
   
