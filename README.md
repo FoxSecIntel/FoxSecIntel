@@ -17,7 +17,7 @@ To build fast, focused, and usable tooling that empowers security teams to respo
 
 - **[`dmarc.exe`](https://github.com/FoxSecIntel/dmarc.exe)** – Full-stack DMARC record validation, RUA parsing, and AbuseIPDB integration.
 - **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – AS path enrichment and live prefix monitoring with public BGP sources.
-- **[`ASN-Analysis`](https://github.com/FoxSecIntel/ASN-Analysis)** – Fast IP-to-ASN analysis and enrichment with CLI support.
+- **[`link-inspector-chrome-extension`](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** – Scrapes all links from the current webpage.
 
 ## 🔧 Roadmap Ideas
 
