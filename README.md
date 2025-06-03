@@ -5,7 +5,7 @@
        src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 
-![Visitor Count](https://shields-io-visitor-counter.onrender.com/badge?page=georgecrook&label=Visitors&color=green)
+![Visitor Count](https://shields-io-visitor-counter.onrender.com/badge?page=FoxSecIntel13&label=Visitors&color=green)
   
 I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
 
