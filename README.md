@@ -6,8 +6,8 @@
 </a>
 
 ## 👁️ Visitors
-![Visitor Count](https://shields-io-visitor-counter.onrender.com/badge?page=FoxSecIntel13&label=Visitors&color=blue)
-  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/Foxsecintel)
+
 I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
 
 In my role, I use a variety of tools and techniques to identify and analyze potential vulnerabilities in networks and systems. I also use open source intelligence to gather information from a variety of sources, such as the internet, social media, and public databases, to help identify potential risks and develop solutions to mitigate them.
