@@ -1,13 +1,40 @@
 ## Greetings, I appreciate you checking out my profile. 👋
 
-<a href="https://www.linkedin.com/in/georgecrook/" target="_blank">
-  <img align="left" alt="George Crook" width="88px"
-       src="https://www.svgrepo.com/show/157006/linkedin.svg" />
-</a>
+# 🦊 FoxSecIntel
 
-I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
+**FoxSecIntel** is a personal project space where I publish tools for threat intelligence, network attribution, and automated analysis workflows.
 
-In my role, I use a variety of tools and techniques to identify and analyze potential vulnerabilities in networks and systems. I also use open source intelligence to gather information from a variety of sources, such as the internet, social media, and public databases, to help identify potential risks and develop solutions to mitigate them.
+🔍 I focus on:
+- DMARC, SPF, and DKIM validation tooling (`dmarc.exe`)
+- ASN, BGP, and routing intelligence (`BGP-Intel`, `ASN-Analysis`)
+- Lightweight open-source tools for Tier-1 SOC analysts
+
+## 🎯 Mission
+
+To build fast, focused, and usable tooling that empowers security teams to respond with clarity and speed ; especially at the network and infrastructure layer.
+
+## 📦 Featured Projects
+
+- **[`dmarc.exe`](https://github.com/FoxSecIntel/dmarc.exe)** – Full-stack DMARC record validation, RUA parsing, and AbuseIPDB integration.
+- **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – AS path enrichment and live prefix monitoring with public BGP sources.
+- **[`ASN-Analysis`](https://github.com/FoxSecIntel/ASN-Analysis)** – Fast IP-to-ASN analysis and enrichment with CLI support.
+
+## 🔧 Roadmap Ideas
+
+- BGP hijack detection toolkit
+- Autonomous honeynet-to-ASN attribution
+- Passive DNS correlation for abuse indicators
+- Pre-processing modules for TIP ingestion
+
+## 🧠 Why?
+
+I build tools to solve problems I encounter in threat intelligence and vulnerability management ; with a preference for modular CLI-driven utilities that can scale.
+
+## 🌐 Follow or Contribute
+
+This space evolves constantly. Watch the repos or open a discussion if you're interested in integrating or using any of the tooling.
+
+
 
 <a href="https://www.buymeacoffee.com/crook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
