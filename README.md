@@ -6,7 +6,7 @@
 </a>
 
 ## 👁️ Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/Foxsecintel)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/FoxSecIntel)
 
 I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
 
