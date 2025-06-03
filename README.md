@@ -18,6 +18,7 @@ To build fast, focused, and usable tooling that empowers security teams to respo
 - **[`dmarc.exe`](https://github.com/FoxSecIntel/dmarc.exe)** – Full-stack DMARC record validation, RUA parsing, and AbuseIPDB integration.
 - **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – AS path enrichment and live prefix monitoring with public BGP sources.
 - **[`link-inspector-chrome-extension`](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** – Scrapes all links from the current webpage.
+- **[`PhishSense`](https://github.com/FoxSecIntel/PhishSense)** – AI-based phishing email explainer.
 
 ## 🔧 Roadmap Ideas
 
