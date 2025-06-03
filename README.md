@@ -1,6 +1,6 @@
 ## Greetings, I appreciate you checking out my profile. 👋
 
-# 🦊 FoxSecIntel
+# 🦊 FoxSecIntel  <a href="https://www.buymeacoffee.com/crook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 **FoxSecIntel** is a personal project space where I publish tools for threat intelligence, network attribution, and automated analysis workflows.
 
@@ -36,7 +36,7 @@ This space evolves constantly. Watch the repos or open a discussion if you're in
 
 
 
-<a href="https://www.buymeacoffee.com/crook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 
 <!--
