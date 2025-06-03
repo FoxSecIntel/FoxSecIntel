@@ -1,8 +1,11 @@
 ## Greetings, I appreciate you checking out my profile. 👋
 
-<a href="https://www.linkedin.com/in/georgecrook/">
-  <img align="left" alt="George Crook" width="88px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin-horizontal.svg" /> 
- </a> 
+<a href="https://www.linkedin.com/in/georgecrook/" target="_blank">
+  <img align="left" alt="George Crook" width="88px"
+       src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+</a>
+
+
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=13gbc.id&left_color=green&right_color=red)
   
