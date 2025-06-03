@@ -5,10 +5,7 @@
        src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 
-
- 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=13gbc.id&left_color=green&right_color=red)
-  
+![Visitor Count](https://shields-io-visitor-counter.onrender.com/badge?page=georgecrook&label=Visitors&color=green)
   
 I have been working in the cyber security industry for the last 10 years. My focus is on finding solutions to reduce risk through vulnerability management and open source intelligence.
 
