@@ -19,6 +19,7 @@ To build fast, focused, and usable tooling that empowers security teams to respo
 - **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – AS path enrichment and live prefix monitoring with public BGP sources.
 - **[`link-inspector-chrome-extension`](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** – Scrapes all links from the current webpage.
 - **[`PhishSense`](https://github.com/FoxSecIntel/PhishSense)** – AI-based phishing email explainer.
+- **[`PhishSense`](https://github.com/FoxSecIntel/PhishSense)** – A curated, SOC-ready list of Google and Shodan dorks
 
 ## 🔧 Roadmap Ideas
 
