@@ -5,6 +5,7 @@
 **FoxSecIntel** is a personal project space where I publish tools for threat intelligence, network attribution, and automated analysis workflows.
 
 🔍 I focus on:
+- Cloud Security Posture Management
 - DMARC, SPF, and DKIM validation tooling (`dmarc.exe`)
 - ASN, BGP, and routing intelligence (`BGP-Intel`, `ASN-Analysis`)
 - Lightweight open-source tools for Tier-1 SOC analysts
@@ -14,7 +15,7 @@
 To build fast, focused, and usable tooling that empowers security teams to respond with clarity and speed ; especially at the network and infrastructure layer.
 
 ## 📦 Featured Projects (designed for blue team analysts on the front line)
-
+- **[`cloud-hun`](https://github.com/FoxSecIntel/cloud-hun)** – Built 'cloud-hun', a lightweight AWS misconfiguration & exposure hunter leveraging free tier, AWS CLI and reproducible lab environments.
 - **[`dmarc.exe`](https://github.com/FoxSecIntel/dmarc.exe)** – Full-stack DMARC record validation, RUA parsing, and AbuseIPDB integration.
 - **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – AS path enrichment and live prefix monitoring with public BGP sources.
 - **[`link-inspector-chrome-extension`](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** – Scrapes all links from the current webpage.
