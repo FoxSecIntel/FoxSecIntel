@@ -6,6 +6,7 @@
 
 🔍 I focus on:
 - Cloud misconfiguration, vulnerabilites & threats
+- Useful Chrome extensions
 - DMARC, SPF, and DKIM validation tooling (`dmarc.exe`)
 - ASN, BGP, and routing intelligence (`BGP-Intel`, `ASN-Analysis`)
 - Lightweight open-source tools for Tier-1 SOC analysts
