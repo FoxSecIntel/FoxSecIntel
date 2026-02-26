@@ -18,7 +18,7 @@ To build fast, focused, and usable tooling that empowers security teams to respo
 ## 📦 Featured Projects (designed for blue team analysts on the front line)
 - **[`cloud-hun`](https://github.com/FoxSecIntel/cloud-hun)** – A lightweight AWS misconfiguration & exposure hunter leveraging free tier, AWS CLI and reproducible lab environments.
 - **[`dmarc.exe`](https://github.com/FoxSecIntel/dmarc.exe)** – Full-stack DMARC record validation, RUA parsing, and AbuseIPDB integration.
-- **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – AS path enrichment and live prefix monitoring with public BGP sources.
+- **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – BGP triage toolkit with IP/ASN enrichment, origin mismatch checks (`bgp_hijack_check.py`), and RPKI validation (`rpki_check.py`) for potential hijack and route-leak detection.
 - **[`link-inspector-chrome-extension`](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** – Scrapes all links from the current webpage.
 - **[`PhishSense`](https://github.com/FoxSecIntel/PhishSense)** – PhishSense is both an AI-powered phishing triage tool and a hands-on learning ground for AI security best practices.
 - **[`Google and Shodan Dorking`](https://github.com/FoxSecIntel/GoogleAndShodanDorking)** – A curated, SOC-ready list of Google and Shodan dorks
