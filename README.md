@@ -23,6 +23,7 @@ To build fast, focused, and usable tooling that empowers security teams to respo
 - **[`PhishSense`](https://github.com/FoxSecIntel/PhishSense)** – PhishSense is both an AI-powered phishing triage tool and a hands-on learning ground for AI security best practices.
 - **[`Google and Shodan Dorking`](https://github.com/FoxSecIntel/GoogleAndShodanDorking)** – A curated, SOC-ready list of Google and Shodan dorks
 - **[`Vulnerability Analysis`](https://github.com/FoxSecIntel/Vulnerability-Analysis)** – Rapid CVE lookup with clean output for triage-ready insights
+- **[`Openclaw-audit`](https://github.com/FoxSecIntel/Openclaw-audit)** – Python deployment auditor for OpenClaw misconfigurations, permission hygiene, and selected CVE exposure checks
 
 ## 🔧 Roadmap Ideas
 
