@@ -29,6 +29,7 @@ Composable. Scriptable. Structured.
 | **[DNS-analysis](https://github.com/FoxSecIntel/DNS-analysis)** | DNS posture checks including NS, CAA, DMARC, SPF, and Cloudflare detection | Bash / Python | CLI | Yes | Partial |
 | **[Vulnerability-Analysis](https://github.com/FoxSecIntel/Vulnerability-Analysis)** | CVE enrichment, update checks, and analyst-focused vulnerability workflows | Bash | CLI | Partial | Partial |
 | **[GoogleAndShodanDorking](https://github.com/FoxSecIntel/GoogleAndShodanDorking)** | Tier-1 reconnaissance query framework for Google and Shodan | Markdown / Python | Reference + CLI | Partial | Partial |
+| **[WebPage-Analysis](https://github.com/FoxSecIntel/WebPage-Analysis)** | Web investigation toolkit for URL expansion, header analysis, security.txt checks, and link extraction workflows | Bash / Python | CLI | Partial | Partial |
 | **[sensitive-info-scanner-chrome-extension](https://github.com/FoxSecIntel/sensitive-info-scanner-chrome-extension)** | Browser-side page scanner for sensitive patterns with CSV and JSON export | JavaScript | Chrome Extension | Yes | Partial |
 | **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, deduplication, and CSV or TXT export for triage | JavaScript | Chrome Extension | Partial | Partial |
 
