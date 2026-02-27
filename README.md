@@ -1,62 +1,59 @@
 ## Greetings, I appreciate you checking out my profile. 👋 &nbsp;&nbsp; <a href="https://www.buymeacoffee.com/crook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="113" ></a>
 
-# 🦊 FoxSecIntel  
+# 🦊 FoxSecIntel
 
-**FoxSecIntel** is a personal project space where I publish tools for threat intelligence, network attribution, and automated analysis workflows.
+Operational security tooling for modern SOC teams.
 
-🔍 I focus on:
-- Cloud misconfiguration, vulnerabilites & threats
-- Useful Chrome extensions
-- DMARC, SPF, and DKIM validation tooling (`dmarc.exe`)
-- ASN, BGP, and routing intelligence (`BGP-Intel`, `ASN-Analysis`)
-- Lightweight open-source tools for Tier-1 SOC analysts
+Focused on:
 
-## 🎯 Mission
+- Domain and email security validation
+- Phishing analysis and investigation tooling
+- BGP and ASN exposure intelligence
+- Reconnaissance workflows
+- Analyst productivity automation
 
-To build fast, focused, and usable tooling that empowers security teams to respond with clarity and speed ; especially at the network and infrastructure layer.
+Built for practical use.
+Composable. Scriptable. Structured.
 
-## 📦 Featured Projects (designed for blue team analysts on the front line)
-- **[`cloud-hun`](https://github.com/FoxSecIntel/cloud-hun)** – A lightweight AWS misconfiguration & exposure hunter leveraging free tier, AWS CLI and reproducible lab environments.
-- **[`dmarc.exe`](https://github.com/FoxSecIntel/dmarc.exe)** – Full-stack DMARC record validation, RUA parsing, and AbuseIPDB integration.
-- **[`BGP-Intel`](https://github.com/FoxSecIntel/BGP-Intel)** – BGP triage toolkit with IP/ASN enrichment, origin mismatch checks (`bgp_hijack_check.py`), and RPKI validation (`rpki_check.py`) for potential hijack and route-leak detection.
-- **[`link-inspector-chrome-extension`](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** – Extracts, deduplicates, and exports webpage links for quick triage.
-- **[`sensitive-info-scanner-chrome-extension`](https://github.com/FoxSecIntel/sensitive-info-scanner-chrome-extension)** – Scans page text for potential sensitive patterns (emails, IPs, keywords, phone numbers) with CSV/JSON export.
-- **[`pomodoro-timer`](https://github.com/FoxSecIntel/pomodoro-timer)** – MV3-safe productivity timer extension with resilient service-worker timing, focus/break modes, and badge countdown.
-- **[`PhishSense`](https://github.com/FoxSecIntel/PhishSense)** – PhishSense is both an AI-powered phishing triage tool and a hands-on learning ground for AI security best practices.
-- **[`Google and Shodan Dorking`](https://github.com/FoxSecIntel/GoogleAndShodanDorking)** – A curated, SOC-ready list of Google and Shodan dorks
-- **[`Vulnerability Analysis`](https://github.com/FoxSecIntel/Vulnerability-Analysis)** – Rapid CVE lookup with clean output for triage-ready insights
-- **[`Openclaw-audit`](https://github.com/FoxSecIntel/Openclaw-audit)** – Python deployment auditor for OpenClaw misconfigurations, permission hygiene, and selected CVE exposure checks
+---
 
-## 🔧 Roadmap Ideas
+## Tool Portfolio
 
-- BGP hijack detection toolkit
-- Autonomous honeynet-to-ASN attribution
-- Passive DNS correlation for abuse indicators
-- Pre-processing modules for TIP ingestion
+| Tool | Primary Use Case | Language | Interface | JSON Output | CI Enabled |
+|------|------------------|----------|-----------|-------------|------------|
+| **PhishSense** | Local phishing email analysis with structured scoring and report generation | Python | CLI | Yes | Partial |
+| **dmarc.exe** | Validate DMARC, SPF and MX posture for a given domain | Python | CLI | Partial | Partial |
+| **GoogleAndShodanDorking** | Tier-1 reconnaissance query framework for Google and Shodan | Markdown / Python | Reference + CLI | Partial | Partial |
+| **Openclaw-audit** | Independent configuration auditor (report-only validation) | Python | CLI | Yes | Partial |
+| **BGP-Intel** | ASN and prefix exposure analysis for hijack risk and ownership mapping | Python / Bash | CLI | Partial | Partial |
+| **WebPage-Analysis** | Web content and header triage for investigation workflows | Bash / Python | CLI | Partial | Partial |
+| **Time-Analysis** | Log investigation helper for time correlation workflows | Python | CLI | Planned | Partial |
 
-## 🧠 Why?
+---
 
-I build tools to solve problems I encounter in threat intelligence and vulnerability management ; with a preference for modular CLI-driven utilities that can scale.
+## Design Principles
 
-## 🌐 Follow or Contribute
+- Modular tools, not monoliths
+- Human-readable output plus structured export
+- Report-first philosophy (minimal destructive automation)
+- Designed for analysts under time pressure
+- Composable into pipelines and SOAR workflows
 
-This space evolves constantly. Watch the repos or open a discussion if you're interested in integrating or using any of the tooling.
+Security tooling should feel like a well-organised workshop: predictable, sharp, and ready when needed.
 
+---
 
+## Roadmap Direction
 
+- Unified `foxsec` meta-CLI wrapper
+- Output format standardisation across all tools
+- Dockerised builds for deployability
+- SIEM and SOAR integration adapters
+- CI coverage expansion across repositories
 
+---
 
+## Contributing
 
-<!--
-**13gbc/13gbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pull requests are welcome.
+Issues tagged `good-first-issue` are ideal entry points.
