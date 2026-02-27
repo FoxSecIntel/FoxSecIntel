@@ -32,6 +32,7 @@ Composable. Scriptable. Structured.
 | **[WebPage-Analysis](https://github.com/FoxSecIntel/WebPage-Analysis)** | Web investigation toolkit for URL expansion, header analysis, security.txt checks, and link extraction workflows | Bash / Python | CLI | Partial | Partial |
 | **[sensitive-info-scanner-chrome-extension](https://github.com/FoxSecIntel/sensitive-info-scanner-chrome-extension)** | Browser-side page scanner for sensitive patterns with CSV and JSON export | JavaScript | Chrome Extension | Yes | Partial |
 | **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, deduplication, and CSV or TXT export for triage | JavaScript | Chrome Extension | Partial | Partial |
+| **[pomodoro-timer](https://github.com/FoxSecIntel/pomodoro-timer)** | Focus sprint timer to structure analyst deep-work blocks for security investigations and threat-hunting sessions | JavaScript | Chrome Extension | No | Partial |
 
 ---
 
