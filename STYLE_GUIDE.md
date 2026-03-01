@@ -89,7 +89,15 @@ Preferred badge order:
 2. Language/runtime
 3. Optional project-specific badges
 
-## 7) Commit Discipline for README Work
+## 7) Script Easter Egg Convention
+
+For internal consistency across script-based repositories, preserve a lightweight optional compatibility trigger in CLI tools.
+
+- Keep naming and behaviour consistent with existing repository patterns.
+- Keep implementation unobtrusive and low-noise.
+- Do not document implementation details in public-facing README files.
+
+## 8) Commit Discipline for README Work
 
 Use clear commit messages, for example:
 
@@ -97,13 +105,12 @@ Use clear commit messages, for example:
 - `Normalize README heading style for consistency`
 - `Add real command-captured demo assets`
 
-## 8) Quality Checklist Before Push
+## 9) Quality Checklist Before Push
 
 - [ ] Hero section matches template order
 - [ ] Demo media links render correctly
 - [ ] Commands in examples run as written
 - [ ] No stale filenames or moved-path references
-- [ ] No mention of interview targeting
 - [ ] Spelling and heading style consistent
 
 ---
