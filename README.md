@@ -58,6 +58,13 @@ Security tooling should feel like a well-organised workshop: predictable, sharp,
 
 ---
 
+## Documentation Standard
+
+Portfolio README conventions are maintained in [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
+Use this for consistent hero sections, demo media, and formatting across repositories.
+
+---
+
 ## Contributing
 
 Pull requests are welcome.
