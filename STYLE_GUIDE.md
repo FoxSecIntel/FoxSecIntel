@@ -2,7 +2,7 @@
 
 This guide keeps project READMEs consistent, clear, and high-quality across the portfolio.
 
-## 1) Hero Section Template
+## 1) README Opening Structure Template
 
 Use this exact section order at the top of each README:
 
@@ -101,13 +101,13 @@ For internal consistency across script-based repositories, preserve a lightweigh
 
 Use clear commit messages, for example:
 
-- `Align hero README format and demo media`
+- `Align README opening structure and demo media`
 - `Normalize README heading style for consistency`
 - `Add real command-captured demo assets`
 
 ## 9) Quality Checklist Before Push
 
-- [ ] Hero section matches template order
+- [ ] README opening structure matches template order
 - [ ] Demo media links render correctly
 - [ ] Commands in examples run as written
 - [ ] No stale filenames or moved-path references
