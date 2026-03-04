@@ -22,6 +22,7 @@ Composable. Scriptable. Structured.
 | Tool | Primary Use Case | Language | Interface | JSON Output | CI Enabled |
 |------|------------------|----------|-----------|-------------|------------|
 | **[Openclaw-audit](https://github.com/FoxSecIntel/Openclaw-audit)** | Independent OpenClaw configuration and deployment security auditing | Python | CLI | Yes | Partial |
+| **[quantum-auditor](https://github.com/FoxSecIntel/quantum-auditor)** | Remote TLS quantum risk auditing with HNDL, Grover, and Shor posture checks | Python | CLI | No | Partial |
 | **[BGP-Intel](https://github.com/FoxSecIntel/BGP-Intel)** | ASN and prefix exposure analysis for hijack and route-leak detection | Python / Bash | CLI | Partial | Partial |
 | **[cloud-hun](https://github.com/FoxSecIntel/cloud-hun)** | Cloud IAM and public exposure hunting for AWS and GCP environments | Bash / Python | CLI | Yes | Partial |
 | **[DNS-analysis](https://github.com/FoxSecIntel/DNS-analysis)** | DNS posture checks including NS, CAA, DMARC, SPF, and Cloudflare detection | Bash / Python | CLI | Yes | Partial |
