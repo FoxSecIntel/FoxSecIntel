@@ -12,8 +12,8 @@ Focused on:
 - Reconnaissance workflows
 - Analyst productivity automation
 
-Built for practical use.
-Composable. Scriptable. Structured.
+Practical by Design. Modular by Nature. 
+Structured for the SOC.
 
 ---
 
