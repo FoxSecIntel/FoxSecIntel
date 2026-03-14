@@ -34,6 +34,7 @@ Structured for the SOC.
 | **[PhishSense](https://github.com/FoxSecIntel/PhishSense)** | Local phishing email analysis with structured scoring and report generation | Python | CLI | Yes | Partial |
 | **[sensitive-info-scanner-chrome-extension](https://github.com/FoxSecIntel/sensitive-info-scanner-chrome-extension)** | Browser-side page scanner for sensitive patterns with CSV and JSON export | JavaScript | Chrome Extension | Yes | Partial |
 | **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, deduplication, and CSV or TXT export for triage | JavaScript | Chrome Extension | Partial | Partial |
+| **[linkscrub](https://github.com/FoxSecIntel/linkscrub)** | Context-menu clean-link copier that strips tracking parameters before clipboard copy | JavaScript | Chrome Extension | No | Partial |
 | **[pomodoro-timer](https://github.com/FoxSecIntel/pomodoro-timer)** | Focus sprint timer to structure analyst deep-work blocks for security investigations and threat-hunting sessions | JavaScript | Chrome Extension | No | Partial |
 
 ---
