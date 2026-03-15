@@ -22,6 +22,7 @@ Structured for the SOC.
 | Tool | Primary Use Case | Language | Interface | JSON Output | CI Enabled |
 |------|------------------|----------|-----------|-------------|------------|
 | **[foxsec-intel-pipeline](https://github.com/FoxSecIntel/foxsec-intel-pipeline)** | Analyst-first domain intelligence enrichment and risk scoring pipeline | Python | CLI | Yes | Partial |
+| **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, filtering, risk highlighting, and export for fast triage | JavaScript | Chrome Extension | Partial | Partial |
 | **[Openclaw-audit](https://github.com/FoxSecIntel/Openclaw-audit)** | Independent OpenClaw configuration and deployment security auditing | Python | CLI | Yes | Partial |
 | **[quantum-auditor](https://github.com/FoxSecIntel/quantum-auditor)** | Remote TLS quantum risk auditing with HNDL, Grover, and Shor posture checks | Python | CLI | No | Partial |
 | **[BGP-Intel](https://github.com/FoxSecIntel/BGP-Intel)** | ASN and prefix exposure analysis for hijack and route-leak detection | Python / Bash | CLI | Partial | Partial |
@@ -33,7 +34,6 @@ Structured for the SOC.
 | **[dmarc.exe](https://github.com/FoxSecIntel/dmarc.exe)** | Validate DMARC, SPF and MX posture for a given domain | Python | CLI | Partial | Partial |
 | **[PhishSense](https://github.com/FoxSecIntel/PhishSense)** | Local phishing email analysis with structured scoring and report generation | Python | CLI | Yes | Partial |
 | **[sensitive-info-scanner-chrome-extension](https://github.com/FoxSecIntel/sensitive-info-scanner-chrome-extension)** | Browser-side page scanner for sensitive patterns with CSV and JSON export | JavaScript | Chrome Extension | Yes | Partial |
-| **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, deduplication, and CSV or TXT export for triage | JavaScript | Chrome Extension | Partial | Partial |
 | **[linkscrub](https://github.com/FoxSecIntel/linkscrub)** | Context-menu clean-link copier that strips tracking parameters before clipboard copy | JavaScript | Chrome Extension | No | Partial |
 | **[pomodoro-timer](https://github.com/FoxSecIntel/pomodoro-timer)** | Focus sprint timer to structure analyst deep-work blocks for security investigations and threat-hunting sessions | JavaScript | Chrome Extension | No | Partial |
 
