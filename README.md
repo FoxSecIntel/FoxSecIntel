@@ -22,6 +22,7 @@ Structured for the SOC.
 | Tool | Primary Use Case | Language | Interface | JSON Output | CI Enabled |
 |------|------------------|----------|-----------|-------------|------------|
 | **[foxsec-intel-pipeline](https://github.com/FoxSecIntel/foxsec-intel-pipeline)** | Analyst-first domain intelligence enrichment and risk scoring pipeline | Python | CLI | Yes | Partial |
+| **[soc-incident-playbooks](https://github.com/FoxSecIntel/soc-incident-playbooks)** | SOC runbooks for 2026 incidents, including AI, agent hijack, browser extension abuse, and campaign-first response workflows | Markdown | Playbook Library | No | Partial |
 | **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, filtering, risk highlighting, and export for fast triage | JavaScript | Chrome Extension | Partial | Partial |
 | **[Openclaw-audit](https://github.com/FoxSecIntel/Openclaw-audit)** | Independent OpenClaw configuration and deployment security auditing | Python | CLI | Yes | Partial |
 | **[quantum-auditor](https://github.com/FoxSecIntel/quantum-auditor)** | Remote TLS quantum risk auditing with HNDL, Grover, and Shor posture checks | Python | CLI | No | Partial |
