@@ -26,9 +26,9 @@ Structured for the SOC.
 | **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, filtering, risk highlighting, and export for fast triage | JavaScript | Chrome Extension | Partial | Partial |
 | **[Openclaw-audit](https://github.com/FoxSecIntel/Openclaw-audit)** | Independent OpenClaw configuration and deployment security auditing | Python | CLI | Yes | Partial |
 | **[quantum-auditor](https://github.com/FoxSecIntel/quantum-auditor)** | Remote TLS quantum risk auditing with HNDL, Grover, and Shor posture checks | Python | CLI | No | Partial |
-| **[BGP-Intel](https://github.com/FoxSecIntel/BGP-Intel)** | ASN and prefix exposure analysis for hijack and route-leak detection | Python / Bash | CLI | Partial | Partial |
+| **[BGP-Intel](https://github.com/FoxSecIntel/BGP-Intel)** | ASN and prefix exposure analysis for hijack and route-leak detection | Python / Bash / Go | CLI | Partial | Partial |
 | **[cloud-hun](https://github.com/FoxSecIntel/cloud-hun)** | Cloud IAM and public exposure hunting for AWS and GCP environments | Bash / Python | CLI | Yes | Partial |
-| **[DNS-analysis](https://github.com/FoxSecIntel/DNS-analysis)** | DNS posture checks including NS, CAA, DMARC, SPF, and Cloudflare detection | Bash / Python | CLI | Yes | Partial |
+| **[DNS-analysis](https://github.com/FoxSecIntel/DNS-analysis)** | DNS posture checks including NS, CAA, DMARC, SPF, and Cloudflare detection | Bash / Python / Go | CLI | Yes | Partial |
 | **[Vulnerability-Analysis](https://github.com/FoxSecIntel/Vulnerability-Analysis)** | CVE enrichment, update checks, and analyst-focused vulnerability workflows | Bash | CLI | Partial | Partial |
 | **[GoogleAndShodanDorking](https://github.com/FoxSecIntel/GoogleAndShodanDorking)** | Tier-1 reconnaissance query framework for Google and Shodan | Markdown / Python | Reference + CLI | Partial | Partial |
 | **[WebPage-Analysis](https://github.com/FoxSecIntel/WebPage-Analysis)** | Web investigation toolkit for URL expansion, header analysis, security.txt checks, and link extraction workflows | Bash / Python | CLI | Partial | Partial |
@@ -37,6 +37,7 @@ Structured for the SOC.
 | **[sensitive-info-scanner-chrome-extension](https://github.com/FoxSecIntel/sensitive-info-scanner-chrome-extension)** | Browser-side page scanner for sensitive patterns with CSV and JSON export | JavaScript | Chrome Extension | Yes | Partial |
 | **[linkscrub](https://github.com/FoxSecIntel/linkscrub)** | Context-menu clean-link copier that strips tracking parameters before clipboard copy | JavaScript | Chrome Extension | No | Partial |
 | **[pomodoro-timer](https://github.com/FoxSecIntel/pomodoro-timer)** | Focus sprint timer to structure analyst deep-work blocks for security investigations and threat-hunting sessions | JavaScript | Chrome Extension | No | Partial |
+| **[cookie-lens](https://github.com/FoxSecIntel/cookie-lens)** | Plain-English cookie risk translator with per-cookie scoring, security attribute interpretation, badge telemetry, and report export workflows | JavaScript | Chrome Extension | Partial | Partial |
 
 ---
 
