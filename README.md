@@ -25,7 +25,7 @@ Structured for the SOC.
 | **[soc-incident-playbooks](https://github.com/FoxSecIntel/soc-incident-playbooks)** | SOC runbooks for 2026 incidents, including AI, agent hijack, browser extension abuse, and campaign-first response workflows | Markdown | Playbook Library | No | Partial |
 | **[link-inspector-chrome-extension](https://github.com/FoxSecIntel/link-inspector-chrome-extension)** | Browser link extraction, filtering, risk highlighting, and export for fast triage | JavaScript | Chrome Extension | Partial | Partial |
 | **[Openclaw-audit](https://github.com/FoxSecIntel/Openclaw-audit)** | Independent OpenClaw configuration and deployment security auditing | Python | CLI | Yes | Partial |
-| **[quantum-auditor](https://github.com/FoxSecIntel/quantum-auditor)** | Remote TLS quantum risk auditing with HNDL, Grover, and Shor posture checks | Python | CLI | No | Partial |
+| **[quantum-auditor](https://github.com/FoxSecIntel/quantum-auditor)** | Remote TLS quantum risk auditing with HNDL, Grover, and Shor posture checks | Python / Go | CLI | No | Partial |
 | **[BGP-Intel](https://github.com/FoxSecIntel/BGP-Intel)** | ASN and prefix exposure analysis for hijack and route-leak detection | Python / Bash / Go | CLI | Partial | Partial |
 | **[cloud-hun](https://github.com/FoxSecIntel/cloud-hun)** | Cloud IAM and public exposure hunting for AWS and GCP environments | Bash / Python | CLI | Yes | Partial |
 | **[DNS-analysis](https://github.com/FoxSecIntel/DNS-analysis)** | DNS posture checks including NS, CAA, DMARC, SPF, and Cloudflare detection | Bash / Python / Go | CLI | Yes | Partial |
